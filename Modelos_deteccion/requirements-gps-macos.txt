@@ -1,0 +1,3 @@
+pyobjc-framework-CoreLocation; sys_platform == "darwin"
+pyobjc-framework-Cocoa; sys_platform == "darwin"
+py2app; sys_platform == "darwin"
